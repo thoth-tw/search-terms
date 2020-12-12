@@ -1,4 +1,5 @@
-- 熱門:
+- name: 熱門
+  terms:
   - 英文
   - python
   - 鋼琴
@@ -9,7 +10,8 @@
   - 韓文
   - javascript
  
-- 電腦程式:
+- name: 電腦程式
+  terms:
   - python
   - javascript
   - leetcode
@@ -22,7 +24,8 @@
   - c++
   - java
 
-- 語言:
+- name: 語言
+  terms:
   - 英文
   - 英文口說
   - 多益
@@ -34,7 +37,8 @@
   - 西文
   - 法文
  
-- 藝術設計:
+- name: 藝術設計
+  terms:
   - 平面設計
   - ai, ps
   - ui/ux
@@ -46,14 +50,16 @@
   - 3D
   - 攝影
  
-- 音樂:
+- name: 音樂
+  terms:
   - 吉他
   - 鋼琴
   - 唱歌
   - 烏克麗麗
   - 樂理
 
-- 運動:
+- name: 運動
+  terms:
   - 健身
   - 重訓
   - 瑜珈
@@ -63,7 +69,8 @@
   - 滑板
   - 羽球
 
-- 商業技能:
+- name: 商業技能
+  terms:
   - 金融考試
   - 企劃
   - 創業
@@ -76,7 +83,8 @@
   - google ads
   - seo
 
-- 個人成長:
+- name: 個人成長
+  terms:
   - 投資理財
   - 股票
   - 國考與高普考
