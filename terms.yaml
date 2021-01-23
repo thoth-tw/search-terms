@@ -15,7 +15,7 @@
   - python
   - javascript
   - leetcode
-  - html, css
+  - html css
   - wordpress
   - 前端
   - 後端
@@ -40,8 +40,8 @@
 - name: 藝術設計
   terms:
   - 平面設計
-  - ai, ps
-  - ui/ux
+  - ai ps
+  - ui ux
   - 網頁設計
   - 電腦繪圖
   - 後製剪輯
@@ -85,6 +85,7 @@
 
 - name: 個人成長
   terms:
+  - 創業
   - 投資理財
   - 股票
   - 國考
